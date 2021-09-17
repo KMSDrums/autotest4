@@ -2,7 +2,7 @@
 
 ## Tech stack:
 - [python 3.9] (https://www.python.org)
-- [playwright](https://playwright.dev)
+- [playwright] (https://playwright.dev)
 
 
 ## Description:
